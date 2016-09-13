@@ -1,18 +1,18 @@
-# Pokémon Red and Blue
+# Pokémon Rubrum and Caeruleum
 
-This is a disassembly of Pokémon Red and Blue.
+Est disassimulatio Pokémi Rubrum et Caeruleum.
 
-It builds the following roms:
+ROMi haec adificat:
 
 * Pokemon Red (UE) [S][!].gb  `md5: 3d45c1ee9abd5738df46d2bdda8b57dc`
 * Pokemon Blue (UE) [S][!].gb `md5: 50927e843568814f7ed45ec4f944bd8b`
 
-To set up the repository, see [**INSTALL.md**](INSTALL.md).
+Statuere repositorium, vide [**INSTALL.md**](INSTALL.md).
 
 
-## See also
+## Et vide
 
-* Disassembly of [**Pokémon Crystal**][pokecrystal]
+* Disassimulationem de [**Pokémon Crystal**][pokecrystal]
 * irc: **irc.freenode.net** [**#pret**][irc]
 
 [pokecrystal]: https://github.com/kanzure/pokecrystal
